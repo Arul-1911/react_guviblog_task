@@ -7,7 +7,7 @@ const Header = () => {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <span className='logo'>
-        <img src="https://d2lk14jtvqry1q.cloudfront.net/media/small_GUVI_1_c02a18fad7.png" alt="Guvi Logo" />
+        <img src="https://www.guvi.in/blog/wp-content/uploads/2022/04/Guvi-blog-logo.png" alt="Guvi Logo" />
         </span>
       
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,7 +43,7 @@ const Header = () => {
       <div id="carouselExample" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img className="d-block w-100" src="https://cdn.dribbble.com/userupload/8047713/file/original-28afdc61c3219b1f570f491cbe9b959b.jpg?crop=8x48-772x621&resize=400x300&vertical=center" alt="First slide" />
+            <img className="d-block w-100" src="https://www.guvi.in/blog/wp-content/uploads/2022/10/blog-header-2048x315.png" alt="First slide" />
           </div>
         </div>
       </div>
