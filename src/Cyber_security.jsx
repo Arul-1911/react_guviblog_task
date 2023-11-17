@@ -6,7 +6,7 @@ desc: 'Have you ever wondered what hacking is all about? It’s a big deal in to
 comments:"17 November 2023  No Comments",
 link:"https://www.guvi.in/blog/what-is-hacking/" },
 
-{ id: 2, imageUrl: 'https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png', 
+{ id: 2, imageUrl: 'https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png', 
 text: 'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
 desc: 'Cybersecurity & Ethical hacking and have been key in making sure that your data online',
 comments:"17 November 2023  No Comments",
